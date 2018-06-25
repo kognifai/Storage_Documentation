@@ -1,4 +1,4 @@
-# Storage_Documentation
+# Storage Documentation
 
 Storage refers to a centralised repository for digital data that can be accessible by industrial users. It provides a common storage platform for Kongsberg products and solutions, as part of the kognifai platform by making data available for analytics, machine learning, and big data analysis across product lines.
 
