@@ -24,11 +24,12 @@ Storage solutions consists of multiple components and technical solutions. Some 
 - Cloud IoT gateway
  -Multitenant PaaS
 - Storage Component
+![Storage_Component.png](.attachments/Storage_Component.png)
 
 # Storage Architecture
 The Kongsberg Digital Storage Solution architecture consists of Content Libraries, IOT Gateways, Storage Tooling, Load Balancer, and Web APIs to connect to the KDI Storage on PREM or Cloud. The KDI storage consists of stream processing of TQL (time Series Query Language) on server cluster. A high level architectural diagram of Storage solution is shown below:
 
-Storage Archietecture
+![Storage_Architecture.png](.attachments/Storage_Architecture.png)
 
 
 
